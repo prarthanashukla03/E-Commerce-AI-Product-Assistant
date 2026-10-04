@@ -1,0 +1,51 @@
+Product_ID,Product_Name,Category,Brand,Price,Rating,Processor,RAM,Storage,Display,GPU,Description,Features
+P001,IdeaPad Gaming 3,Laptop,Lenovo,65999,4.4,Intel Core i5,16 GB,512 GB SSD,15.6 inch FHD,NVIDIA RTX 3050,Gaming laptop suitable for programming and gaming,Backlit keyboard;WiFi 6;Fast charging
+P002,Victus 15,Laptop,HP,68999,4.3,AMD Ryzen 5,16 GB,512 GB SSD,15.6 inch FHD,NVIDIA RTX 3050,Powerful laptop for programming gaming and productivity,144Hz display;Backlit keyboard;WiFi 6
+P003,TUF Gaming F15,Laptop,ASUS,72999,4.5,Intel Core i5,16 GB,512 GB SSD,15.6 inch FHD,NVIDIA RTX 3050,Performance laptop designed for gaming and development,144Hz display;Military grade build;RGB keyboard
+P004,MacBook Air M2,Laptop,Apple,79999,4.7,Apple M2,8 GB,256 GB SSD,13.6 inch Retina,Integrated,Lightweight laptop suitable for programming and productivity,Retina display;Long battery life;Touch ID
+P005,Inspiron 15,Laptop,Dell,54999,4.2,Intel Core i5,16 GB,512 GB SSD,15.6 inch FHD,Integrated,Affordable laptop for students and programming,Comfortable keyboard;WiFi 6;Full HD display
+P006,Aspire 5,Laptop,Acer,52999,4.1,Intel Core i5,16 GB,512 GB SSD,15.6 inch FHD,Integrated,Everyday laptop for students and office productivity,Backlit keyboard;WiFi 6;USB-C
+P007,ThinkPad E14,Laptop,Lenovo,61999,4.5,Intel Core i5,16 GB,512 GB SSD,14 inch FHD,Integrated,Business laptop with durable design and strong keyboard,Fingerprint reader;USB-C;WiFi 6
+P008,Pavilion 14,Laptop,HP,57999,4.2,Intel Core i5,16 GB,512 GB SSD,14 inch FHD,Integrated,Compact laptop for students and professionals,Fast charging;Backlit keyboard;HD camera
+P009,ROG Strix G15,Laptop,ASUS,84999,4.6,AMD Ryzen 7,16 GB,1 TB SSD,15.6 inch FHD,NVIDIA RTX 4060,High performance gaming laptop for development and gaming,165Hz display;RGB keyboard;Advanced cooling
+P010,Nitro V 15,Laptop,Acer,74999,4.4,Intel Core i5,16 GB,512 GB SSD,15.6 inch FHD,NVIDIA RTX 4050,Gaming laptop with strong graphics performance,144Hz display;RGB keyboard;WiFi 6
+P011,Galaxy S24,Smartphone,Samsung,69999,4.6,Snapdragon,8 GB,256 GB,6.2 inch AMOLED,Integrated,Premium smartphone with excellent camera and performance,AMOLED display;5G;Fast charging
+P012,Pixel 8,Smartphone,Google,59999,4.5,Tensor G3,8 GB,128 GB,6.2 inch OLED,Integrated,Smartphone known for camera quality and clean Android experience,AI camera;5G;Wireless charging
+P013,iPhone 15,Smartphone,Apple,69999,4.7,A16 Bionic,6 GB,128 GB,6.1 inch OLED,Integrated,Premium smartphone with strong performance and camera,5G;Face ID;Excellent camera
+P014,OnePlus 12,Smartphone,OnePlus,64999,4.5,Snapdragon 8 Gen 3,12 GB,256 GB,6.82 inch AMOLED,Integrated,High performance smartphone for gaming and productivity,120Hz display;Fast charging;5G
+P015,Redmi Note 13 Pro,Smartphone,Xiaomi,29999,4.3,Snapdragon 7s Gen 2,8 GB,256 GB,6.67 inch AMOLED,Integrated,Affordable smartphone with good camera and display,200MP camera;120Hz display;5G
+P016,Nothing Phone 2,Smartphone,Nothing,39999,4.4,Snapdragon 8+ Gen 1,12 GB,256 GB,6.7 inch OLED,Integrated,Stylish smartphone with smooth performance and clean software,Glyph interface;120Hz display;5G
+P017,Galaxy A55,Smartphone,Samsung,38999,4.3,Exynos 1480,8 GB,128 GB,6.6 inch AMOLED,Integrated,Mid-range smartphone with balanced camera and performance,120Hz display;5G;OIS camera
+P018,Nord 4,Smartphone,OnePlus,32999,4.5,Snapdragon 7+ Gen 3,8 GB,128 GB,6.74 inch AMOLED,Integrated,Fast mid-range smartphone for gaming and daily use,100W charging;120Hz display;5G
+P019,Moto Edge 50,Smartphone,Motorola,29999,4.4,Snapdragon 7 Gen 1,8 GB,256 GB,6.67 inch OLED,Integrated,Slim smartphone with good display and camera,144Hz display;5G;Fast charging
+P020,iPhone 14,Smartphone,Apple,59999,4.6,A15 Bionic,6 GB,128 GB,6.1 inch OLED,Integrated,Reliable premium smartphone with strong camera performance,5G;Face ID;Ceramic Shield
+P021,Galaxy Tab S9 FE,Tablet,Samsung,42999,4.5,Exynos 1380,6 GB,128 GB,10.9 inch LCD,Integrated,Versatile tablet for study entertainment and productivity,S Pen;Water resistance;90Hz display
+P022,iPad 10th Gen,Tablet,Apple,39999,4.6,A14 Bionic,4 GB,64 GB,10.9 inch Retina,Integrated,Tablet suitable for study media and creative tasks,Apple Pencil support;USB-C;Stereo speakers
+P023,OnePlus Pad Go,Tablet,OnePlus,19999,4.3,MediaTek Helio G99,8 GB,128 GB,11.35 inch LCD,Integrated,Affordable tablet for entertainment and online learning,90Hz display;Dolby Atmos;Large battery
+P024,Tab M11,Tablet,Lenovo,17999,4.2,MediaTek Helio G88,4 GB,128 GB,11 inch LCD,Integrated,Budget tablet for students and multimedia,Pen support;Quad speakers;Reading mode
+P025,Redmi Pad SE,Tablet,Xiaomi,14999,4.3,Snapdragon 680,6 GB,128 GB,11 inch LCD,Integrated,Affordable tablet for entertainment and study,90Hz display;Quad speakers;Large battery
+P026,WH-1000XM5,Headphones,Sony,29999,4.7,Bluetooth,N/A,N/A,Over-ear,N/A,Premium wireless headphones with excellent noise cancellation,ANC;30 hour battery;Multipoint
+P027,QuietComfort 45,Headphones,Bose,24999,4.6,Bluetooth,N/A,N/A,Over-ear,N/A,Comfortable headphones with strong active noise cancellation,ANC;24 hour battery;Comfort fit
+P028,AirPods Pro 2,Earbuds,Apple,24900,4.6,H2 Chip,N/A,N/A,In-ear,N/A,Premium wireless earbuds with adaptive audio and ANC,ANC;Transparency mode;MagSafe charging
+P029,Galaxy Buds2 Pro,Earbuds,Samsung,15999,4.4,Bluetooth,N/A,N/A,In-ear,N/A,Compact earbuds with high quality audio and noise cancellation,ANC;360 Audio;IPX7
+P030,OnePlus Buds 3,Earbuds,OnePlus,5499,4.3,Bluetooth,N/A,N/A,In-ear,N/A,Affordable earbuds with strong sound and long battery life,ANC;49 hour battery;Dual drivers
+P031,MX Master 3S,Mouse,Logitech,8999,4.6,Bluetooth,N/A,N/A,Ergonomic,N/A,Premium productivity mouse for office and creative work,Quiet clicks;8000 DPI;Multi-device
+P032,DeathAdder V3,Mouse,Razer,6999,4.5,USB,N/A,N/A,Ergonomic,N/A,Lightweight gaming mouse designed for competitive gaming,30K DPI;Lightweight;Ergonomic design
+P033,K2 Mechanical Keyboard,Keyboard,Keychron,8999,4.5,USB-C/Bluetooth,N/A,N/A,75 percent,N/A,Mechanical keyboard suitable for coding and productivity,Hot-swappable;Wireless;RGB
+P034,BlackWidow V4,Keyboard,Razer,13999,4.4,USB,N/A,N/A,Full-size,N/A,Gaming mechanical keyboard with customizable controls,RGB;Mechanical switches;Macro keys
+P035,Logitech K380,Keyboard,Logitech,2999,4.5,Bluetooth,N/A,N/A,Compact,N/A,Compact wireless keyboard for multi-device productivity,Multi-device;Compact;Long battery life
+P036,Smart Monitor M5,Monitor,Samsung,27999,4.4,HDMI/WiFi,N/A,N/A,32 inch 4K,N/A,Smart monitor for work entertainment and streaming,4K;Smart TV apps;HDR
+P037,UltraGear 27GN800,Monitor,LG,24999,4.5,HDMI/DisplayPort,N/A,N/A,27 inch QHD,N/A,Gaming monitor with fast refresh rate and sharp resolution,144Hz;1ms response;G-Sync compatible
+P038,S2721D,Monitor,Dell,21999,4.4,HDMI/DisplayPort,N/A,N/A,27 inch QHD,N/A,Professional monitor for office work and content creation,QHD;IPS panel;Flicker-free
+P039,VG249Q1A,Monitor,ASUS,16999,4.3,HDMI/DisplayPort,N/A,N/A,24 inch FHD,N/A,Affordable high refresh rate monitor for gaming,165Hz;1ms response;FreeSync
+P040,Portable SSD T7,Storage,Samsung,7999,4.7,USB 3.2,N/A,1 TB,Portable,N/A,Fast portable SSD for backups and file transfers,1TB capacity;USB-C;Compact design
+P041,Crucial X9,Storage,Crucial,6999,4.6,USB-C,N/A,1 TB,Portable,N/A,Portable SSD suitable for backups and everyday storage,1TB capacity;USB-C;Compact
+P042,WD My Passport,Storage,Western Digital,5999,4.4,USB 3.0,N/A,2 TB,Portable,N/A,Portable hard drive for large file storage and backups,2TB capacity;Password protection;Compact
+P043,PowerCore 20K,Power Bank,Anker,3999,4.5,USB-C,N/A,20000 mAh,Portable,N/A,High capacity power bank for smartphones and tablets,20W charging;USB-C;Multi-device
+P044,Mi Power Bank 3i,Power Bank,Xiaomi,1999,4.3,USB-A/USB-C,N/A,20000 mAh,Portable,N/A,Affordable high capacity power bank for daily use,18W charging;Dual USB;Lithium polymer
+P045,Fitbit Charge 6,Smartwatch,Fitbit,12999,4.4,Bluetooth,N/A,N/A,1.04 inch AMOLED,N/A,Fitness tracker with health and activity monitoring features,GPS;Heart rate tracking;Sleep tracking
+P046,Galaxy Watch 6,Smartwatch,Samsung,18999,4.5,Bluetooth/WiFi,2 GB,16 GB,1.5 inch AMOLED,N/A,Smartwatch for fitness tracking notifications and daily use,GPS;Health tracking;AMOLED display
+P047,Apple Watch SE,Smartwatch,Apple,24999,4.6,Bluetooth/WiFi,N/A,32 GB,40 mm Retina,N/A,Smartwatch with fitness tracking and smart notifications,Fitness tracking;GPS;Water resistant
+P048,Kindle Paperwhite,E-Reader,Amazon,14999,4.6,WiFi,N/A,16 GB,6.8 inch E-Ink,N/A,E-reader with glare-free display for comfortable reading,Waterproof;Adjustable warm light;Long battery
+P049,EOS 1500D,Camera,Canon,39999,4.4,WiFi,N/A,N/A,24.1 MP APS-C,18-55mm Lens,Entry-level DSLR camera for photography enthusiasts,WiFi;24.1MP sensor;Full HD video
+P050,ZV-E10,Camera,Sony,59999,4.6,WiFi/Bluetooth,N/A,N/A,24.2 MP APS-C,16-50mm Lens,Mirrorless camera designed for creators and video recording,4K video;Flip screen;Fast autofocus
